@@ -28,3 +28,10 @@ python setup.py build_ext --inplace
 ## Expected result
 
 ![](sample_images/expected_result.png)
+
+## Useful reference
+
+1. [numpy array APIs](https://numpy.org/devdocs/reference/c-api/array.html#array-structure-and-data-access)
+2. [Python C APIs](https://docs.python.org/3/c-api/index.html)
+3. [opencv c++ APIs](https://docs.opencv.org/master/d3/d63/classcv_1_1Mat.html)
+4. [An example to build opencv with GPU](https://gist.github.com/raulqf/f42c718a658cddc16f9df07ecc627be7)
